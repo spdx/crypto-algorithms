@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: CC0-1.0
+
+algorithmId: salsa20
+algorithmName:
+securityStrength: '128'

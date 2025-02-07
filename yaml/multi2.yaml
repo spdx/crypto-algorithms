@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
 algorithmId: multi2
-algorithmName:
+algorithmName: MULTI2 Cipher
 securityStrength: '128'

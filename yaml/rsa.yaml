@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
 algorithmId: rsa
-algorithmName:
+algorithmName: Rivest–Shamir–Adleman Algorithm
 securityStrength: '128'

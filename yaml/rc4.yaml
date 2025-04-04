@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
 algorithmId: rc4
-algorithmName:
+algorithmName: Rivest Cipher 4
 securityStrength: '2048'

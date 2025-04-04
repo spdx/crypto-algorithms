@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
 algorithmId: hc256
-algorithmName:
+algorithmName:  Hongjun Wu's Cipher 256
 securityStrength: '256'

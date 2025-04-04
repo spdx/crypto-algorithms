@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
 algorithmId: md5
-algorithmName:
+algorithmName: Message-Digest Algorithm 5
 securityStrength: '128'

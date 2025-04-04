@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: ASN1
-algorithmName:
+algorithmId: asn1
+algorithmName: Abstract Syntax Notation One
 securityStrength: '256'

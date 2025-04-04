@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
 algorithmId: skipjack
-algorithmName:
+algorithmName: Skipjack Block Cipher
 securityStrength: '32'

@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: elgamal
-algorithmName: ElGamal Encryption System
+id: elgamal
+name: ElGamal Encryption System
 securityStrength: '128'

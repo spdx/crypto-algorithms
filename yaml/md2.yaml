@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: md2
-algorithmName: Message-Digest Algorithm 2
+id: md2
+name: Message-Digest Algorithm 2
 securityStrength: '256'

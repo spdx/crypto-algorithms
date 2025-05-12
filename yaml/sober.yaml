@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: sober
-algorithmName: SOBER Stream Cipher
+id: sober
+name: SOBER Stream Cipher
 securityStrength: '128'

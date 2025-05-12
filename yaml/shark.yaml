@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: shark
-algorithmName: SHARK Block Cipher
+id: shark
+name: SHARK Block Cipher
 securityStrength: '64'

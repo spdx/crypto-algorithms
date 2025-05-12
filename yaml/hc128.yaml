@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: hc128
-algorithmName: Hongjun Wu's Cipher 128
+id: hc128
+name: Hongjun Wu's Cipher 128
 securityStrength: '128'

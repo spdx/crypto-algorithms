@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: ntruencrypt
-algorithmName: N-th degree TRuncated polynomial Ring Units
+id: ntruencrypt
+name: N-th degree TRuncated polynomial Ring Units
 securityStrength: '128'

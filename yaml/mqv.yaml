@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: mqv
-algorithmName: Menezes-Qu-Vanstone
+id: mqv
+name: Menezes-Qu-Vanstone
 securityStrength: '512'

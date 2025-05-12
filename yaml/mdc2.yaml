@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: mdc2
-algorithmName: Modification Detection Code 2
+id: mdc2
+name: Modification Detection Code 2
 securityStrength: '128'

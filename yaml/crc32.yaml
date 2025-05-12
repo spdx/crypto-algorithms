@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: crc32
-algorithmName:  Cyclic Redundancy Check 32-bit
+id: crc32
+name:  Cyclic Redundancy Check 32-bit
 securityStrength: '32'

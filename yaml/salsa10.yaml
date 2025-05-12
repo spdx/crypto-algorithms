@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: salsa10
-algorithmName: Salsa10 Stream Cipher
+id: salsa10
+name: Salsa10 Stream Cipher
 securityStrength: '64'

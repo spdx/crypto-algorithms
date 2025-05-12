@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: seed
-algorithmName: SEED Block Cipher
+id: seed
+name: SEED Block Cipher
 securityStrength: '256'

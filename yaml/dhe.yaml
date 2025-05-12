@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: dhe
-algorithmName: Diffie-Hellman Ephemeral
+id: dhe
+name: Diffie-Hellman Ephemeral
 securityStrength: '128'

@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: fcrypt
-algorithmName: Fast DES
+id: fcrypt
+name: Fast DES
 securityStrength: '128'

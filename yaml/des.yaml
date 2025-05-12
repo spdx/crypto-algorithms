@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: des
-algorithmName: Data Encryption Standard
+id: des
+name: Data Encryption Standard
 securityStrength: '168'

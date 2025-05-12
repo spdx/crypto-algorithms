@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: khazad
-algorithmName: Khazad Block Ciphe
+id: khazad
+name: Khazad Block Ciphe
 securityStrength: '16'

@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: zuc
-algorithmName: ZUC Stream Cipher
+id: zuc
+name: ZUC Stream Cipher
 securityStrength: '128'

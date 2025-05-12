@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: grain
-algorithmName: Grain Stream Cipher
+id: grain
+name: Grain Stream Cipher
 securityStrength: '128'

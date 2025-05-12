@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: fletcher
-algorithmName: Fletcher's Checksum
+id: fletcher
+name: Fletcher's Checksum
 securityStrength: '64'

@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: shacal
-algorithmName: SHACAL Block Cipher
+id: shacal
+name: SHACAL Block Cipher
 securityStrength: '128'

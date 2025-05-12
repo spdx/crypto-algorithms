@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: seal
-algorithmName: Software-Optimized Encryption Algorithm Cipher
+id: seal
+name: Software-Optimized Encryption Algorithm Cipher
 securityStrength: '128'

@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: quad
-algorithmName:  Quad Cipher
+id: quad
+name:  Quad Cipher
 securityStrength: '128'

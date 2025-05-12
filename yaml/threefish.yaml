@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: threefish
-algorithmName: Threefish Block Cipher
+id: threefish
+name: Threefish Block Cipher
 securityStrength: '1024'

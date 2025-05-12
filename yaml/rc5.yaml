@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: rc5
-algorithmName: Rivest Cipher 5
+id: rc5
+name: Rivest Cipher 5
 securityStrength: '128'

@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: aes
-algorithmName: Advanced Encryption Standard
+id: aes
+name: Advanced Encryption Standard
 securityStrength: '256'

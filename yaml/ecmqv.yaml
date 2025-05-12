@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: ecmqv
-algorithmName: Elliptic Curve Menezes-Qu-Vanstone
+id: ecmqv
+name: Elliptic Curve Menezes-Qu-Vanstone
 securityStrength: '128'

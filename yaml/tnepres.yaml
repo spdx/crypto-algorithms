@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: tnepres
-algorithmName:  TNEPRES Block Cipher (Reverse Serpent)
+id: tnepres
+name:  TNEPRES Block Cipher (Reverse Serpent)
 securityStrength: '256'

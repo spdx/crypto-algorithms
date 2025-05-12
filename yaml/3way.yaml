@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: 3way
-algorithmName: 3-Way Block Cipher
+id: 3way
+name: 3-Way Block Cipher
 securityStrength: '128'

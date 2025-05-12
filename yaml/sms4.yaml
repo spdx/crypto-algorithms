@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: sms4
-algorithmName: SMS4 Block Cipher
+id: sms4
+name: SMS4 Block Cipher
 securityStrength: '128'

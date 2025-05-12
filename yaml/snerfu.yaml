@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: snerfu
-algorithmName: SNERFU Hash Function
+id: snerfu
+name: SNERFU Hash Function
 securityStrength: '256'

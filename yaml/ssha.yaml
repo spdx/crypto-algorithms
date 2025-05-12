@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: ssha
-algorithmName: Salted Secure Hash Algorithm
+id: ssha
+name: Salted Secure Hash Algorithm
 securityStrength: '128'

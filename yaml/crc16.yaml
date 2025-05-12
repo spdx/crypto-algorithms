@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: crc16
-algorithmName:  Cyclic Redundancy Check 16-bit
+id: crc16
+name:  Cyclic Redundancy Check 16-bit
 securityStrength: '16'

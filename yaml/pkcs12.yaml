@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: pkcs12
-algorithmName: Public Key Cryptography Standards 12
+id: pkcs12
+name: Public Key Cryptography Standards 12
 securityStrength: '128'

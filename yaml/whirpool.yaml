@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
 
-algorithmId: whirpool
-algorithmName: Whirlpool Hash Function
+id: whirpool
+name: Whirlpool Hash Function
 securityStrength: '128'
